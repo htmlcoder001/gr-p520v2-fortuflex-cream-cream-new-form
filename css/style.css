@@ -280,10 +280,10 @@
     font-weight: bold;
 }
 .article_content p:nth-last-of-type(1) {
-    text-align: center;
+
 }
 .article_content p:nth-last-of-type(1) a {
-    font-weight: 700;
+
 }
 .artcile_data {
     text-align: right;
